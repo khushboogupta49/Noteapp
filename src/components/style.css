@@ -1,0 +1,14 @@
+.vidButtonStyle {
+  height: 100px;
+  width: 100px;
+  color: #29508c;
+  position: relative;
+
+  left: 13rem;
+}
+
+.imageStyle {
+  border-radius: 15px;
+  height: 105px;
+  width: 105px;
+}
